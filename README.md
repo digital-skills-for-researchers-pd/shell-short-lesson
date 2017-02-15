@@ -1,17 +1,23 @@
 shell-novice
 ============
 
-An introduction to the Unix shell for people who have never used the command line before.
-Please see <https://swcarpentry.github.io/shell-novice/> for a rendered version of this material,
-[the lesson template documentation][lesson-example]
-for instructions on formatting, building, and submitting material,
-or run `make` in this directory for a list of helpful commands.
+First encounter with the Bash shell.  Please see <https://digital-skills-for-researchers-pd.github.io/shell-short-lesson/> for a rendered version of this material.
 
-Maintainers:
 
-* [Gabriel Devenyi][devenyi_gabriel]
-* [Ashwin Srinath][srinath_ashwin]
+## Community
 
-[devenyi_gabriel]: http://software-carpentry.org/team/#devenyi_gabriel
-[srinath_ashwin]: http://software-carpentry.org/team/#srinath_ashwin
-[lesson-example]: https://swcarpentry.github.io/lesson-example/
+You can find us on [Slack](https://digital-skills-2017.slack.com/)!
+
+Email one of the team to request an invite:
+
+- Fabiana Kubke [f.kubke@auckland.ac.nz](mailto:"f.kubke@auckland.ac.nz")
+- Anthony Jarvis [a.jarvis@auckland.ac.nz](mailto:"a.jarvis@auckland.ac.nz")
+- Manish Kukreja [mkuk073@aucklanduni.ac.nz](mailto:"mkuk073@aucklanduni.ac.nz")
+- Neil Birrell [nbir012@aucklanduni.ac.nz](mailto:"nbir012@aucklanduni.ac.nz")
+
+
+
+## Attributions
+
+Material adapted from [Shell Lesson](http://swcarpentry.github.io/shell-novice/) by Software Carpentry Foundation  
+Logo Credit: [Crash Test Dummy](https://thenounproject.com/term/crash-test-dummy/4954/) by Luis Prado from the Noun Project
